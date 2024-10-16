@@ -49,13 +49,4 @@ As a passionate _**low-level programmer**_, I admire these principles and strive
 ![](https://github-contributor-stats.vercel.app/api?username=Nalan-PandiKumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nalan-PandiKumar&icon=8&color=0)](https://visitcount.itsvg.in)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Nalan-PandiKumar&icon=8&color=0)](https://visitcount.itsvg.in)
-
-![](https://github-contributor-stats.vercel.app/api?username=Nalan-PandiKumar &limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Nalan-PandiKumar&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
