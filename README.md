@@ -10,6 +10,12 @@
 - ⚡ Fun fact: I _**write my own code**_ to understand how abstractions really work!
 
 ---
+## Dragon Ball Fan
+---
+
+As a Dragon Ball fan... 🐉 Super Shenron! I wish for you to swap my body with the body of the legendary low-level programmer, Linus Torvalds!"
+
+---
 
 ## Points to Note to Become a Real Hacker and Achieve Big Things in Hacking
 
