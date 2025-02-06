@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I _**write my own code**_ to understand how abstractions really work!
 
 ---
-## Dragon Ball Fan
+## My Wish As A Dragon Ball Fan
 ---
 
 As a Dragon Ball fan... 🐉 Super Shenron! I wish for you to swap my body with the body of the legendary low-level programmer, Linus Torvalds!"
