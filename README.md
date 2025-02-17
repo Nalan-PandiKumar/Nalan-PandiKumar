@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m **@Nalan-PandiKumar**
 - 👀 I’m interested in _**low-level programming**_, _**reverse engineering**_, and _**hacking through code**_.
-- 🌱 I’m currently learning, _**ARM**_, and _**multi-threaded kernels**_.
+- 🌱 I’m currently learning _**ARM**_, and _**multi-threaded kernels**_.
 - 💞️ I’m looking to collaborate on _**C projects**_, _**systems programming**_.
 - 📫 How to reach me: _**You can contact me via GitHub or through LinkedIn**_.
 - 😄 Pronouns: _**He/Him**_
